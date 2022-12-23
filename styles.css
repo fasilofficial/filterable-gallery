@@ -19,8 +19,9 @@ body{
     vertical-align: middle;
     border-radius: 3px;
   }
-img:hover {
+  .gallery-item:hover {
     transform: scale(1.1);
+}
   /*.gallery*/
   .gallery{
     width: 100%;
